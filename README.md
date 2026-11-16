@@ -114,7 +114,7 @@ This was tested by sending `"MO"`, `"VE "`, `"5\r\n"` as three separate writes, 
 - A move sent out of turn is rejected.
 
 ## Screenshots
-Taken in macOS Terminal with the server on port 5051. Left: server. Middle: client X. Right: client O.
+Taken in macOS Terminal with the server on port 5052. Left: server. Middle: client X. Right: client O.
 
 ### Server and both clients connected
 The server has accepted X and O. Both clients show their symbol and the empty board, and X moves first.
